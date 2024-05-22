@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Law 12/Family Law Quiz Review.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -186,20 +186,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "60ad4cf57a12802e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-22 08.50.21.excalidraw.md",
+    "Law 12/family law quiz review.pdf",
     "Law 12/Family Law Quiz Review.md",
+    "Excalidraw/Drawing 2024-05-22 08.50.21.excalidraw.md",
     "Excalidraw",
     "Pasted image 20240522083611.png",
     "Pasted image 20240522075100.png",
-    "Law 12/family law quiz review.pdf",
     "Welcome.md",
     "Untitled",
     "Law 12",
