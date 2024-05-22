@@ -10,7 +10,6 @@ Provincial:
 	- Child support
 	- Adoption
 	- Divison of property in the case of divorce
-- 
 ## Common-Law Marriage (Cohabitation)
 Definition:
 > By living as spouses for a two years, couples will be deemed, under the *Family Law Act of BC*, to be common-law married, with many of the same rights and responsibilities of those who enter formal marriages.
