@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "57a843b570089951",
+        "id": "c2a2572cf70fe4f6",
         "type": "tabs",
         "children": [
           {
-            "id": "60ad4cf57a12802e",
+            "id": "2330f734686bffab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Law 12/Family Law Quiz Review.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d3f428419f93dc04",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20df37e92e5dcc92",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Law 12/family law quiz review.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "596137bcffc139e2",
@@ -102,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law 12/Family Law Quiz Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Law 12/Family Law Quiz Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Law 12/Family Law Quiz Review.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,20 +161,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60ad4cf57a12802e",
+  "active": "2330f734686bffab",
   "lastOpenFiles": [
-    "Law 12/family law quiz review.pdf",
+    "Pasted image 20240522075100.png",
+    "Pasted image 20240522083611.png",
     "Law 12/Family Law Quiz Review.md",
+    "Law 12/family law quiz review.pdf",
     "Excalidraw/Drawing 2024-05-22 08.50.21.excalidraw.md",
     "Excalidraw",
-    "Pasted image 20240522083611.png",
-    "Pasted image 20240522075100.png",
     "Welcome.md",
     "Untitled",
     "Law 12",
