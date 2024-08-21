@@ -97,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Law 12/family law quiz review.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,8 +118,9 @@
             "id": "a84591bcebe00f42",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Law 12/family law quiz review.pdf"
+              }
             }
           },
           {
